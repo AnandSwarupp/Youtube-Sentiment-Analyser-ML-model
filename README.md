@@ -12,3 +12,4 @@ It fetches comments directly from the YouTube Data API, predicts their sentiment
 - Show top 20 extreme comments
 - Fully interactive Streamlit web app
 - Easy to replace ML model(Currently using Logistic Regression)
+
